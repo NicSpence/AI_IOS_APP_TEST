@@ -1,0 +1,278 @@
+[
+ {
+  "name": "Barbell bench press",
+  "category": "Chest",
+  "muscles": "Chest, Triceps, Front delts",
+  "equipment": "Barbell, Bench"
+ },
+ {
+  "name": "Incline dumbbell press",
+  "category": "Chest",
+  "muscles": "Upper chest, Front delts",
+  "equipment": "Dumbbells, Bench"
+ },
+ {
+  "name": "Push-up",
+  "category": "Chest",
+  "muscles": "Chest, Triceps, Core",
+  "equipment": "Bodyweight"
+ },
+ {
+  "name": "Dips",
+  "category": "Chest",
+  "muscles": "Chest, Triceps",
+  "equipment": "Parallel bars"
+ },
+ {
+  "name": "Cable fly",
+  "category": "Chest",
+  "muscles": "Chest",
+  "equipment": "Cable machine"
+ },
+ {
+  "name": "Deadlift",
+  "category": "Back",
+  "muscles": "Hamstrings, Glutes, Lower back, Traps",
+  "equipment": "Barbell"
+ },
+ {
+  "name": "Pull-up",
+  "category": "Back",
+  "muscles": "Lats, Biceps",
+  "equipment": "Pull-up bar"
+ },
+ {
+  "name": "Barbell row",
+  "category": "Back",
+  "muscles": "Lats, Rhomboids, Rear delts",
+  "equipment": "Barbell"
+ },
+ {
+  "name": "Lat pulldown",
+  "category": "Back",
+  "muscles": "Lats, Biceps",
+  "equipment": "Cable machine"
+ },
+ {
+  "name": "Seated cable row",
+  "category": "Back",
+  "muscles": "Mid back, Lats",
+  "equipment": "Cable machine"
+ },
+ {
+  "name": "Face pull",
+  "category": "Shoulders",
+  "muscles": "Rear delts, Rotator cuff",
+  "equipment": "Cable machine"
+ },
+ {
+  "name": "Back squat",
+  "category": "Legs",
+  "muscles": "Quads, Glutes, Adductors",
+  "equipment": "Barbell, Rack"
+ },
+ {
+  "name": "Front squat",
+  "category": "Legs",
+  "muscles": "Quads, Glutes, Upper back",
+  "equipment": "Barbell, Rack"
+ },
+ {
+  "name": "Goblet squat",
+  "category": "Legs",
+  "muscles": "Quads, Glutes",
+  "equipment": "Dumbbell or Kettlebell"
+ },
+ {
+  "name": "Romanian deadlift",
+  "category": "Legs",
+  "muscles": "Hamstrings, Glutes",
+  "equipment": "Barbell or Dumbbells"
+ },
+ {
+  "name": "Bulgarian split squat",
+  "category": "Legs",
+  "muscles": "Quads, Glutes",
+  "equipment": "Dumbbells, Bench"
+ },
+ {
+  "name": "Walking lunge",
+  "category": "Legs",
+  "muscles": "Quads, Glutes",
+  "equipment": "Dumbbells"
+ },
+ {
+  "name": "Leg press",
+  "category": "Legs",
+  "muscles": "Quads, Glutes",
+  "equipment": "Leg press machine"
+ },
+ {
+  "name": "Hip thrust",
+  "category": "Legs",
+  "muscles": "Glutes, Hamstrings",
+  "equipment": "Barbell, Bench"
+ },
+ {
+  "name": "Standing calf raise",
+  "category": "Legs",
+  "muscles": "Calves",
+  "equipment": "Machine or Dumbbells"
+ },
+ {
+  "name": "Overhead press",
+  "category": "Shoulders",
+  "muscles": "Front delts, Triceps",
+  "equipment": "Barbell"
+ },
+ {
+  "name": "Lateral raise",
+  "category": "Shoulders",
+  "muscles": "Side delts",
+  "equipment": "Dumbbells"
+ },
+ {
+  "name": "Arnold press",
+  "category": "Shoulders",
+  "muscles": "Delts, Triceps",
+  "equipment": "Dumbbells"
+ },
+ {
+  "name": "Barbell curl",
+  "category": "Arms",
+  "muscles": "Biceps",
+  "equipment": "Barbell"
+ },
+ {
+  "name": "Hammer curl",
+  "category": "Arms",
+  "muscles": "Biceps, Brachialis, Forearms",
+  "equipment": "Dumbbells"
+ },
+ {
+  "name": "Triceps pushdown",
+  "category": "Arms",
+  "muscles": "Triceps",
+  "equipment": "Cable machine"
+ },
+ {
+  "name": "Skull crusher",
+  "category": "Arms",
+  "muscles": "Triceps",
+  "equipment": "EZ bar, Bench"
+ },
+ {
+  "name": "Plank",
+  "category": "Core",
+  "muscles": "Abs, Obliques",
+  "equipment": "Bodyweight"
+ },
+ {
+  "name": "Side plank",
+  "category": "Core",
+  "muscles": "Obliques",
+  "equipment": "Bodyweight"
+ },
+ {
+  "name": "Hanging leg raise",
+  "category": "Core",
+  "muscles": "Abs, Hip flexors",
+  "equipment": "Pull-up bar"
+ },
+ {
+  "name": "Ab wheel rollout",
+  "category": "Core",
+  "muscles": "Abs",
+  "equipment": "Ab wheel"
+ },
+ {
+  "name": "Dead bug",
+  "category": "Core",
+  "muscles": "Abs",
+  "equipment": "Bodyweight"
+ },
+ {
+  "name": "Pallof press",
+  "category": "Core",
+  "muscles": "Obliques, Abs",
+  "equipment": "Cable or Band"
+ },
+ {
+  "name": "Kettlebell swing",
+  "category": "Full body",
+  "muscles": "Glutes, Hamstrings, Core",
+  "equipment": "Kettlebell"
+ },
+ {
+  "name": "Farmer's carry",
+  "category": "Full body",
+  "muscles": "Grip, Traps, Core",
+  "equipment": "Dumbbells or Kettlebells"
+ },
+ {
+  "name": "Burpee",
+  "category": "Full body",
+  "muscles": "Full body",
+  "equipment": "Bodyweight"
+ },
+ {
+  "name": "Running",
+  "category": "Cardio",
+  "muscles": "Legs, Heart",
+  "equipment": "None"
+ },
+ {
+  "name": "Walking",
+  "category": "Cardio",
+  "muscles": "Legs, Heart",
+  "equipment": "None"
+ },
+ {
+  "name": "Cycling",
+  "category": "Cardio",
+  "muscles": "Legs, Heart",
+  "equipment": "Bike"
+ },
+ {
+  "name": "Rowing machine",
+  "category": "Cardio",
+  "muscles": "Back, Legs, Heart",
+  "equipment": "Rower"
+ },
+ {
+  "name": "Jump rope",
+  "category": "Cardio",
+  "muscles": "Calves, Heart",
+  "equipment": "Rope"
+ },
+ {
+  "name": "Swimming",
+  "category": "Cardio",
+  "muscles": "Full body, Heart",
+  "equipment": "Pool"
+ },
+ {
+  "name": "Stair climber",
+  "category": "Cardio",
+  "muscles": "Legs, Heart",
+  "equipment": "Machine"
+ },
+ {
+  "name": "Yoga",
+  "category": "Mobility",
+  "muscles": "Full body",
+  "equipment": "Mat"
+ },
+ {
+  "name": "Stretching",
+  "category": "Mobility",
+  "muscles": "Full body",
+  "equipment": "None"
+ },
+ {
+  "name": "Foam rolling",
+  "category": "Mobility",
+  "muscles": "Full body",
+  "equipment": "Foam roller"
+ }
+]
